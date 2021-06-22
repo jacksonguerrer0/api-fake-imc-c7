@@ -6,7 +6,21 @@
   "name": "api-fake-imc-c7",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/jacksonguerrer0/api-fake-imc-c7.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonguerrer0/api-fake-imc-c7.git"
+  },
   "author": "Jackson Guerrero <jacksonguerrerovega2@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Api consumo de datos de la app imc",
+  "bugs": {
+    "url": "https://github.com/jacksonguerrer0/api-fake-imc-c7/issues"
+  },
+  "homepage": "https://github.com/jacksonguerrer0/api-fake-imc-c7#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json-server": "json-server --watch imc.json"
+  },
+  "keywords": []
 }

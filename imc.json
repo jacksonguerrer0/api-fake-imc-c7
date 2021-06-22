@@ -1,34 +1,34 @@
 {
-    "pascientes":[
-        {
-            "id" : 1,
-            "documento" : 1006441009,
-            "nombres" : "Jorge Jackson",
-            "apellidos" : "Guerrero Vega",
-            "fecha_nacimineito" : "2003-09-22",
-            "celular" : 3123492176,
-            "correo" : "jacksonguerrerovega2@gmail.com"
-        }
-    ],
-    "imc" : [
-        {
-            "id" : 1,
-            "documento" : 1006441009,
-            "peso" : 80.2,
-            "altura" : 170,
-            "fecha" : "2021/06/22 10:08:22"
-        },
-        {
-            "id" : 2,
-            "documento" : 1006441009,
-            "peso" : 80.2,
-            "altura" : 170,
-            "fecha" : "2021/07/10 20:10:00"
-        }
-    ],
-    "configuracion" : {
-        "nombre_app" : "IMC",
-        "version" : "1.0.0",
-        "administrador" : "jackson"
+  "pascientes": [
+    {
+      "id": 1,
+      "documento": 1006441009,
+      "nombres": "Jorge Jackson",
+      "apellidos": "Guerrero Vega",
+      "fecha_nacimineito": "2003-09-22",
+      "celular": 3123492176,
+      "correo": "jacksonguerrerovega2@gmail.com"
     }
+  ],
+  "imc": [
+    {
+      "id": 1,
+      "documento": 1006441009,
+      "peso": 80.2,
+      "altura": 170,
+      "fecha": "2021/06/22 10:08:22"
+    },
+    {
+      "id": 2,
+      "documento": 1006441009,
+      "peso": 80.2,
+      "altura": 170,
+      "fecha": "2021/07/10 20:10:00"
+    }
+  ],
+  "configuracion": {
+    "nombre_app": "IMC",
+    "version": "1.0.0",
+    "administrador": "jackson"
+  }
 }
